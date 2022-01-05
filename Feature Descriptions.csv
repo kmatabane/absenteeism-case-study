@@ -1,0 +1,40 @@
+Feature No.,Feature,Description
+1,ID,
+,"Reasons for Absence (Reasons 1 - 21 are registered in the International Classification for Diseases (ICD), reasons 22 - 28 are not)",1. Certain infectious and parasite diseases
+,,2. Neoplasms
+,,3. Diseases of the blood and blood forming organs and certain disorders involving the immune mechanisms
+,,"4. Endocrine, nutritional and metabolic diseases"
+,,5. Mental and behavioural diseases
+,,6. Diseases of the nervous system
+,,7. Diseases of the eye and adnexa
+,,8. Diseases of the ear and mastoid process
+,,9. Diseases of the circulatory system
+,,10. Diseases of the respiratory system
+,,11. Diseases of the digestive system
+,,12. Diseases of the skin and subcutaneous tissue
+,,13. Diseases of the musculoskeletal system and connective tissue
+,,14. Diseases of the genitourinary system
+,,"15. Pregnancy, childbirth and the puerperium"
+,,16. Certain conditions originating in the perinatal period
+,,"17. Congenital malformations, deformations and chromosomal abnormalities"
+,,"18. Symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
+,,"19. Injury, poisoning and certain other consequences of external causes"
+,,20. External causes of morbidity and mortality
+,,21. Factors influencing health status and contact with health services
+,,22. Patient follow-up
+,,23. Medical consultation
+,,24. Blood donation
+,,25. Laboratory examination
+,,26. Unjustified absence
+,,27. Physiotherapy
+,,28. Dental consultation
+3,Date,date of absence
+4,Transportation Expense,"costs related to business travel such as fuel, parking and meals"
+5,Distance to Work,measured in kilometers
+6,Age,years of age
+7,Daily Work Load Average,measured in minutes
+8,Body Mass Index,
+9,Education,"a categorical variable representing different  levels of education (1: High School; 2: Undergrad, 3: PostGrad, 4: Masters or Doctorate)"
+10,Children,number of children in the family
+11,Pets,number of pets in the family
+12,Absenteeism Time in Hours,
