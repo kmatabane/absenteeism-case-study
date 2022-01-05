@@ -1,0 +1,16 @@
+,Feature name,Coefficient,Odds_ratio
+3,Reason_3,3.073006,21.606759
+1,Reason_1,2.75514,15.723246
+4,Reason_4,0.900073,2.459783
+2,Reason_2,0.878663,2.407678
+6,Transportation Expense,0.572999,1.773579
+10,Children,0.487177,1.627714
+8,Body Mass Index,0.250265,1.284365
+5,Month,0.123995,1.13201
+9,Education,-0.114178,0.892099
+7,Age,-0.264644,0.767479
+11,Pets,-0.313862,0.73062
+0,Intercept,-1.703017,0.182133
+,,,
+,,,
+,,,

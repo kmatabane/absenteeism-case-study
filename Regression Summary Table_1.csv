@@ -1,0 +1,16 @@
+,Feature name,Coefficient,Odds_ratio
+3,Reason_3,2.999096,20.067387
+1,Reason_1,2.740473,15.494312
+4,Reason_4,0.905427,2.472988
+2,Reason_2,0.819966,2.270422
+7,Transportation Expense,0.587977,1.800343
+13,Children,0.51647,1.676101
+11,Body Mass Index,0.231574,1.260583
+6,Month,0.139565,1.149774
+8,Distance to Work,-0.015736,0.984387
+10,Daily Work Load Average,-0.036956,0.963719
+12,Education,-0.107806,0.897801
+5,Day of Week,-0.240358,0.786347
+9,Age,-0.27114,0.762509
+14,Pets,-0.334426,0.715749
+0,Intercept,-1.700157,0.182655
